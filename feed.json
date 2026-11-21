@@ -18,6 +18,8 @@
     "web": "https://github.com/S3v3n-JG/Godensio-Desk-Releases/releases/download/v1.1.0/Godensio-Desk-Web.zip"
   },
   "page": "https://github.com/S3v3n-JG/Godensio-Desk-Releases/releases/latest",
-  "revoked": [],
-  "made": "2026-11-21T14:40:00Z"
+  "revoked": [
+    "91C21985CC"
+  ],
+  "made": "2026-11-21T15:05:23.467Z"
 }
