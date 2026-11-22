@@ -1,20 +1,24 @@
 {
   "app": "Godensio Desk",
-  "version": "1.1.1",
-  "date": "2026-11-21",
+  "version": "1.2.0",
+  "date": "2026-11-22",
   "notes": [
-    "Test update: checking that Download and install works. Nothing else changed."
+    "New Studio Desk for beats, chords and vocals, plus Notes & Tasks, Invoice & Quote, Forms, Release and Thumbnail Desks.",
+    "A redesigned main menu: Daylight theme, accent colours, Focus switch, foldable sections that become bubbles, and a profile picture with a status.",
+    "Switch desks from anywhere with the desk switcher (⇧⌘D / Ctrl+Shift+D).",
+    "Phone layouts fixed: no more cut-off top bars, and Studio track names show in full.",
+    "Many fixes and smoother animations."
   ],
   "downloads": {
-    "mac-arm": "https://github.com/S3v3n-JG/Godensio-Desk-Releases/releases/download/v1.1.1/Godensio-Desk-macOS-Apple-Silicon.zip",
-    "mac-intel": "https://github.com/S3v3n-JG/Godensio-Desk-Releases/releases/download/v1.1.1/Godensio-Desk-macOS-Intel.zip",
-    "win": "https://github.com/S3v3n-JG/Godensio-Desk-Releases/releases/download/v1.1.1/Godensio-Desk-Windows.zip",
-    "android": "https://github.com/S3v3n-JG/Godensio-Desk-Releases/releases/download/v1.1.1/Godensio-Desk-Android.apk",
-    "web": "https://github.com/S3v3n-JG/Godensio-Desk-Releases/releases/download/v1.1.1/Godensio-Desk-Web.zip"
+    "mac-arm": "https://github.com/S3v3n-JG/Godensio-Desk-Releases/releases/download/1.2.0/Godensio-Desk-macOS-Apple-Silicon.zip",
+    "mac-intel": "https://github.com/S3v3n-JG/Godensio-Desk-Releases/releases/download/1.2.0/Godensio-Desk-macOS-Intel.zip",
+    "win": "https://github.com/S3v3n-JG/Godensio-Desk-Releases/releases/download/1.2.0/Godensio-Desk-Windows.zip",
+    "android": "https://github.com/S3v3n-JG/Godensio-Desk-Releases/releases/download/1.2.0/Godensio-Desk-Android.apk",
+    "web": "https://github.com/S3v3n-JG/Godensio-Desk-Releases/releases/download/1.2.0/Godensio-Desk-Web.zip"
   },
   "page": "https://github.com/S3v3n-JG/Godensio-Desk-Releases/releases/latest",
   "revoked": [
     "91C21985CC"
   ],
-  "made": "2026-11-21T15:30:00Z"
+  "made": "2026-11-22T12:00:00Z"
 }
